@@ -1,0 +1,6 @@
+.vscode
+.pytest_cache
+*.zip
+*.txt
+*.wclassic
+__pycache__
